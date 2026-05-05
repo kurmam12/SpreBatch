@@ -1,0 +1,4 @@
+com\de\le\sprebatch\entity\Payment.class
+com\de\le\sprebatch\config\PaymentBatchConfigurtion.class
+com\de\le\sprebatch\SpreBatchApplication.class
+com\de\le\sprebatch\PaymentJobScheduler.class
